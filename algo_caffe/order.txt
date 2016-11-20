@@ -1,0 +1,6 @@
+12:34
+1
+3
+mochaLatte 3
+americano 5 
+toast 2
